@@ -1,13 +1,13 @@
 {
-  "main.css": "/front-end-project-week/static/css/main.4b3f405f.chunk.css",
-  "main.js": "/front-end-project-week/static/js/main.6c3484f9.chunk.js",
-  "main.js.map": "/front-end-project-week/static/js/main.6c3484f9.chunk.js.map",
-  "static/js/1.ef527548.chunk.js": "/front-end-project-week/static/js/1.ef527548.chunk.js",
-  "static/js/1.ef527548.chunk.js.map": "/front-end-project-week/static/js/1.ef527548.chunk.js.map",
+  "main.css": "/front-end-project-week/static/css/main.ac86c541.chunk.css",
+  "main.js": "/front-end-project-week/static/js/main.a2aa223f.chunk.js",
+  "main.js.map": "/front-end-project-week/static/js/main.a2aa223f.chunk.js.map",
+  "static/js/1.0a0d4402.chunk.js": "/front-end-project-week/static/js/1.0a0d4402.chunk.js",
+  "static/js/1.0a0d4402.chunk.js.map": "/front-end-project-week/static/js/1.0a0d4402.chunk.js.map",
   "runtime~main.js": "/front-end-project-week/static/js/runtime~main.9c13ef43.js",
   "runtime~main.js.map": "/front-end-project-week/static/js/runtime~main.9c13ef43.js.map",
-  "static/css/main.4b3f405f.chunk.css.map": "/front-end-project-week/static/css/main.4b3f405f.chunk.css.map",
+  "static/css/main.ac86c541.chunk.css.map": "/front-end-project-week/static/css/main.ac86c541.chunk.css.map",
   "index.html": "/front-end-project-week/index.html",
-  "precache-manifest.d76018a9ee598041e13a1649e10f80f2.js": "/front-end-project-week/precache-manifest.d76018a9ee598041e13a1649e10f80f2.js",
+  "precache-manifest.3a3bf31b2d65e88878dda71f63ab939e.js": "/front-end-project-week/precache-manifest.3a3bf31b2d65e88878dda71f63ab939e.js",
   "service-worker.js": "/front-end-project-week/service-worker.js"
 }
